@@ -1,6 +1,6 @@
-# Mixed-type data clustering: a full factorial benchmark study on distance-based clustering methods
+# Mixed-type data clustering: a full factorial benchmarking study on distance-based clustering methods
 
-This repository includes the code used for the project "Mixed-type data clustering: a full factorial benchmark study on distance-based clustering methods", submitted as the first mini-project for the StatML CDT.
+This repository includes the code used for the project "Mixed-type data clustering: a full factorial benchmarking study on distance-based clustering methods", submitted as the first mini-project for the StatML CDT.
 
 * Author: Efthymios Costa
 * Supervisors:
